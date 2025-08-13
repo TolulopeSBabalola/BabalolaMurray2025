@@ -1,0 +1,9 @@
+﻿id,node.type,node.name,Nuptial gift presence ,Nuptial gift quality ,Nuptial gift dependance ,Sensory bias  ,Fecundity ,Female ornaments size,Female wait time ,Male wait time 
+s01,2,Nuptial gift presence ,,,3,,,3,3,-3
+s02,1,Nuptial gift quality ,,,4,,4,4,,-2
+s03,1,Nuptial gift dependance ,,,,,,4,3,-2
+s04,2,Sensory bias  ,,,,,,3,,
+s05,4,Fecundity ,,,,,,,,
+s06,4,Female ornaments size,,,,,-3,,-4,
+s07,3,Female wait time ,,,,,-2,,,
+s08,3,Male wait time ,,,,,,,,
