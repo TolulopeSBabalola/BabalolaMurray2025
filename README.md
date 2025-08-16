@@ -7,4 +7,4 @@ Structure of Bayesian model files are referenced from : Almela VD, Croker AR, St
 Creating simple predictive models in ecology, conservation and environmental policy based on Bayesian belief networks., 
 2024.06.12.598033. (doi:10.1101/2024.06.12.598033)
 
-For additional questions contact: Tolu.babalola@mail.utoronto.ca
+
